@@ -42,7 +42,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -75,15 +75,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
+              "version": "[9.0.18, 9.0.18]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
+              "version": "[9.0.18, 9.0.18]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
+              "version": "[9.0.18, 9.0.18]"
             }
           ],
           "frameworkReferences": {
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -129,7 +129,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -148,19 +148,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
+              "version": "[9.0.18, 9.0.18]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[9.0.12, 9.0.12]"
+              "version": "[9.0.18, 9.0.18]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
+              "version": "[9.0.18, 9.0.18]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
+              "version": "[9.0.18, 9.0.18]"
             }
           ],
           "frameworkReferences": {
@@ -168,7 +168,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
